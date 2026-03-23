@@ -1,10 +1,11 @@
-# 🚀 Reddit Picture Gallery Downloader
+![Animation](https://github.com/user-attachments/assets/f07d4d10-6bf4-42d0-ab6a-f4d043348e8d)# 🚀 Reddit Picture Gallery Downloader
 
 A lightweight, frictionless Chrome Extension that allows you to download high-resolution images, multi-image galleries, and text posts directly from Reddit with a single click. 
 
 No sketchy third-party websites, no copied links, and no annoying pop-up ads. Everything happens locally on your machine.
 
-![Demo GIF](link-to-your-demo-gif-here.gif) *(Tip: Upload a quick 10-second screen recording of the extension working here!)*
+
+![Animation](https://github.com/user-attachments/assets/6ff9fdae-a98f-4372-971a-6da3ea681d56)
 
 ## ✨ Features
 
